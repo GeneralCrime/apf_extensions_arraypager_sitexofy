@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "8d42ea2c55a5d6ab8b775c68e098cee1",
+    "packages": [
+        {
+            "name": "apf/apf",
+            "version": "4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/AdventurePHP/code.git",
+                "reference": "fd5195d31ba629a15b8f2069bb0fafc224ba86de"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/AdventurePHP/code/zipball/fd5195d31ba629a15b8f2069bb0fafc224ba86de",
+                "reference": "fd5195d31ba629a15b8f2069bb0fafc224ba86de",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0.0"
+            },
+            "require-dev": {
+                "phpunit/php-code-coverage": "^5",
+                "phpunit/phpunit": "^6",
+                "phpunit/phpunit-mock-objects": "^5"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-3.0-or-later"
+            ],
+            "description": "Adventure PHP Framework (APF)",
+            "homepage": "https://github.com/AdventurePHP/code",
+            "support": {
+                "docs": "https://adventure-php-framework.org/en",
+                "forum": "https://adventure-php-framework.org/forum",
+                "issues": "https://adventure-php-framework.org/tracker",
+                "source": "https://github.com/AdventurePHP/code/tree/master",
+                "wiki": "https://adventure-php-framework.org/wiki"
+            },
+            "time": "2019-01-27T15:50:32+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=7.1.0"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
