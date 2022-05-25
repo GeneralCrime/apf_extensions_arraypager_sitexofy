@@ -1,0 +1,22 @@
+{
+  "name": "generalcrime/apf_extensions_arraypager_sitexofy",
+  "description": "A simple select pager for apf",
+  "minimum-stability": "stable",
+  "version": "1.0",
+  "license": "GIT",
+  "authors": [
+    {
+      "name": "General Crime",
+      "email": "ich@general-crime.de"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0",
+    "apf/apf": "4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "GeneralCrime\\APF\\extensions\\arraypager\\": ""
+    }
+  }
+}
